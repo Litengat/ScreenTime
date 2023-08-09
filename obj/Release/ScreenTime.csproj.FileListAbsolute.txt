@@ -1,0 +1,15 @@
+C:\Users\Liten\source\repos\ScreenTime\bin\Release\ScreenTime.exe.config
+C:\Users\Liten\source\repos\ScreenTime\bin\Release\ScreenTime.exe
+C:\Users\Liten\source\repos\ScreenTime\bin\Release\ScreenTime.pdb
+C:\Users\Liten\source\repos\ScreenTime\obj\Release\ScreenTime.csproj.AssemblyReference.cache
+C:\Users\Liten\source\repos\ScreenTime\obj\Release\MainWindow.g.cs
+C:\Users\Liten\source\repos\ScreenTime\obj\Release\App.g.cs
+C:\Users\Liten\source\repos\ScreenTime\obj\Release\ScreenTime_MarkupCompile.cache
+C:\Users\Liten\source\repos\ScreenTime\obj\Release\ScreenTime_MarkupCompile.lref
+C:\Users\Liten\source\repos\ScreenTime\obj\Release\MainWindow.baml
+C:\Users\Liten\source\repos\ScreenTime\obj\Release\ScreenTime.g.resources
+C:\Users\Liten\source\repos\ScreenTime\obj\Release\ScreenTime.Properties.Resources.resources
+C:\Users\Liten\source\repos\ScreenTime\obj\Release\ScreenTime.csproj.GenerateResource.cache
+C:\Users\Liten\source\repos\ScreenTime\obj\Release\ScreenTime.csproj.CoreCompileInputs.cache
+C:\Users\Liten\source\repos\ScreenTime\obj\Release\ScreenTime.exe
+C:\Users\Liten\source\repos\ScreenTime\obj\Release\ScreenTime.pdb
