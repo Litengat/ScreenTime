@@ -4,7 +4,8 @@ public class ProcesSave
 
 {
 	String ProcessName;
-	DateTime date;
+	DateTime start;
+	DateTime end;
 	public ProcesSave()
 	{
 
